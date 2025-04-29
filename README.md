@@ -51,14 +51,11 @@ To train, validate, benchmark, and save the results of your model, go to train.p
 ### Citation
 If you find our work helpful, please consider citing our paper.
 
+```
 @article{wang2025msdseg,
-
   title={Lightweight and Real-Time Semantic Segmentation Network with MultiScale Dilated Convolutions},
-  
   author={Shan Zhao, Yunlei Wang, Zhanqiang Huo, Fukai Zhang},
-  
   journal={The Visual Computer},
-  
   year={2025}
-  
 }
+```

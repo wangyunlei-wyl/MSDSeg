@@ -1,6 +1,6 @@
 # MSDSeg
 
-#### The official implementation of "MSDSeg: A Lightweight Real-Time Semantic Segmentation Network with MultiScale Dilated Convolution"
+#### The official implementation of "Lightweight and Real-Time Semantic Segmentation Network with MultiScale Dilated Convolutions"
 
 MSDSeg
 
@@ -47,3 +47,12 @@ To visualize your model, go to show_cityscapes.py.
 To see the model definitions and do some speed tests, go to MSDSeg.py.
 
 To train, validate, benchmark, and save the results of your model, go to train.py.
+
+### Citation
+If you find our work helpful, please consider citing our paper.
+@article{wang2025msdseg,
+  title={Lightweight and Real-Time Semantic Segmentation Network with MultiScale Dilated Convolutions},
+  author={Shan Zhao, Yunlei Wang, Zhanqiang Huo, Fukai Zhang},
+  journal={The Visual Computer},
+  year={2025}
+}
